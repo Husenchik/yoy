@@ -1,0 +1,336 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.div1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.div1,img{
+    height: 50px;
+}
+.div,a{
+    text-decoration: none;
+    margin-top: 15px;
+}
+.div2,.aa{
+    color: #000;
+    margin-top: 10px;
+}
+.btn{
+    width: 115px;
+    height: 50px;
+    border-radius: 50px;
+    background: blue;
+    margin-left: 20px;
+    border: none;
+}
+.h11{
+    color: palevioletred;
+}
+.h1,.h11{
+    width: 412px;
+    font-size: 50px;
+    margin-left: 200px;
+}
+.h1{
+    margin-top: 80px;
+}
+.texttext{
+    margin-left: 200px;
+    color: gray;
+}
+.btn1{
+    width: 115px;
+    height: 50px;
+    border-radius: 50px;
+    background: blue;
+    margin-left: 20px;
+    border: none;
+    margin-left: 200px;
+}
+.og{
+    width: 570px;
+    height: 620px;
+    margin-left: 590px;
+    margin-top: -200px;
+}
+.frame{
+    width: 1000px;
+    height: 160px;
+    margin-left: 200px;
+}
+.cals{
+    color: plum;
+}
+.remix{
+    margin-left: 100px;
+    margin-top: 200px;
+}
+.cals{
+    display: inline;
+    margin-top: -90px;
+}
+.selfi{
+    width:330px;
+    height:  423px;
+    margin-left: 450px;
+    margin-top: -200px;
+  
+}
+.selfil{
+    width:330px;
+    height:423px;
+    margin-left: 850px;
+    margin-top: -900px;
+}
+.melloop{
+    color: pink;
+    margin-top: 70px;
+    margin-left: 200px;
+}
+.lolokasha{
+    margin-left: 200px;
+}
+.imgimgimg{
+    width:  232px;
+    height:  135px;
+    gap: 32px;
+    opacity: 0px;
+    margin-left: 800px;
+    margin-top: -30px;
+}
+.oiu{
+    width:  1184px;
+    height:  800px;
+    gap: 32px;
+    opacity: 0px;
+
+}
+.seffff{
+    width: 871px;
+    height: 697px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: -300px;
+
+}
+.ketler{
+    color: pink;
+    margin-left: 900px;
+    margin-top: 200px;
+}
+.kerler{
+    margin-left: 900px;
+}
+.memem{
+    margin-left: 900px;
+}
+.sased{
+    width: 441px;
+    height:  334px;
+    margin-left: 800px;
+    margin-top: -300px;
+
+}
+.groupp{
+    color: pink;
+}
+.difget{
+    margin-top: 200px;
+    margin-left: 70px;
+}
+.selfi{
+    transition: 0.5s all;
+    border-radius: 10px;
+}
+.selfil{
+    transition: 0.5s all;
+}
+.img:hover{
+
+}
+.selfil:hover{
+    box-shadow: 2px 25px 20px 25px #1918251A;
+}
+.selfi:hover{
+    box-shadow: 2px 25px 20px 25px #1918251A;
+}           
+.mma{
+    width: 549px;
+    height:  492px;
+    margin-left: -50px;
+}
+.iimg{
+    width: 693px;
+    height: 869px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 532px;
+    margin-top: -350px;
+}
+.before{
+    width: 1300px;
+    height: 958.64px;
+    top: 4424.88px;
+    left: -757.53px;
+    gap: 0px;
+    opacity: 0.1px;
+    angle: 9.37 deg;
+
+}
+.bed{
+    color: #F972AB;
+    margin-top: -730px;
+    margin-left: 600px;
+}
+.hub{
+    margin-top: 30px;
+    margin-left: 600px;
+}
+.just{
+
+    margin-left: 660px;
+    margin-top: 60px;
+}
+.dekstop{
+    margin-left: 570px;
+    margin-top: 60px;
+}
+.losh{
+    margin-top: -8px;
+
+    margin-left: 500px;
+}
+.mendo{
+    margin-left: 500px;
+   
+}
+.kuchuk{
+    margin-left: 400px;
+    width: 100px;
+    height: 100px;
+}
+.kokomelon{
+    color: pink;
+    margin-top: 434px;
+    margin-left: 560px;
+}
+.lll{
+    
+}
+.lolomen{
+    margin-left: 560px;
+    margin-top: 20px;
+}
+.yuo{
+    
+    width:  1,184px;
+    height:  308px;
+}
+.jojomelonka{
+    width: 557px;
+    height: 76px;
+    padding: 32px ;
+    gap: 16px;
+    border-radius: 32px;
+    margin-left: 200px;margin-top: 100px;
+    display: inline;
+}
+.kokokomelon{
+    width: 190px;
+    height: 150px;
+    padding: 32px ;
+    gap: 16px;
+    border-radius: 32px;
+  
+    margin-left: 800px;
+    margin-top: -120px;
+    display: inline;
+}
+.div1{
+    transition:0.5s all;
+}
+.vv{
+    color: gray
+    ;
+    transition: 0.4s all;
+}
+.vv:hover{
+    font-size: 19px;
+    color: #000;
+    border-bottom: 1px solid #000;
+}
+.kokomelon{
+    margin-top: 200px;
+}
+.momo{
+    width: 132px;
+    height: 351px;
+    top: 5688px;
+    left: 1328px;
+    gap: 0px;
+    opacity: 0px;
+    float: right;
+}
+.lll{
+    margin-left: 20px;
+    border: 1px;
+    width: 133px;
+    height: 52px;
+    padding: 16px 32px 16px 32px;
+    gap: 8px;
+    border-radius: 100px ;
+    border: 1px ; 
+    
+}
+.company{
+    color: black;
+}
+.oxirgi{
+    margin-top: 400px;
+}
+.arirash{
+    margin-left: 150px;
+}
+.gog{
+    margin-left: 150px;
+}
+.kimchi:hover{
+    border: 1px;
+}
+.classs{
+    margin-left: 150px;
+}
+.eeee{
+    width: 24px;
+    height: 24px;
+    padding: 2px 2.03px 2px 1.97px;
+}
+.dado{
+    margin-left: 80px;
+    margin-top: -45px;
+}
+.mmoo{
+    margin-left: 80px;
+    margin-top: -45px;
+}
+.weze{
+    margin-left: 600px;
+    list-style: none;
+    margin-top: -160px;
+}
+.wezes{
+    margin-left: 800px;
+    list-style: none;
+    margin-top: -160px;
+}
+.wezet{
+    margin-left: 1000px;
+    list-style: none;
+    margin-top: -160px;
+}
+.kimchi{
+    border: 1px;
+}
